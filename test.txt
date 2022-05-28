@@ -1,5 +1,5 @@
 I am Bulbul Ahmed.
-I born in 1999
+I born in 1999 august 01
 I have done my ssc in 2016
 I have complete my HSC in 2018
 I have complete html css bootstrap & javascript
@@ -8,3 +8,4 @@ I have started my full stack web development job
 I will join at mfile 1s of December 
 logo alignment is centred solving.
 logo aligenment is centred.
+new line is added in feature branch.
